@@ -16,7 +16,7 @@
     "authenticate",
     "restapi"
   ],
-  "author": "sachin jaiswal",
+  "author": "quangpn",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
